@@ -1,0 +1,22 @@
+# PyCharm / IDEs
+.idea/
+.vscode/
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ 
+# Credenciais e variaveis de ambiente
+.env
+ 
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ 
